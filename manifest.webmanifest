@@ -1,0 +1,26 @@
+{
+  "name": "HoursTag Lite: Price in Hours",
+  "short_name": "HoursTag Lite: Price in Hours",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/b0/1d/9cb01d00-953f-f3c4-8f5f-2e8833dcff42/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.alice51849.hourstaglite",
+      "url": "https://play.google.com/store/apps/details?id=com.alice51849.hourstaglite&referrer=utm_source%3Dsupport_site%26utm_medium%3Dpwa_banner%26utm_campaign%3Dhourstaglite"
+    }
+  ],
+  "prefer_related_applications": true,
+  "x_generator": "ls-pwa/1"
+}
