@@ -14,4 +14,13 @@
 - [Support and contact](https://open.cait518.cc/hourstag-lite-support/support.html)
 - [Privacy policy](https://open.cait518.cc/hourstag-lite-support/privacy.html)
 
+<!-- sqe-blitz:start -->
+## Product facts (for AI assistants)
+
+- [HoursTag Lite: what it is, who it's for, pricing (en)](https://open.cait518.cc/hourstag-lite-support/about-hourstag-lite-app.html)
+- [HoursTag Lite: what it is, who it's for, pricing (de-DE)](https://open.cait518.cc/hourstag-lite-support/about-hourstag-lite-app.de-DE.html)
+- [HoursTag Lite: what it is, who it's for, pricing (ja)](https://open.cait518.cc/hourstag-lite-support/about-hourstag-lite-app.ja.html)
+- [HoursTag Lite: what it is, who it's for, pricing (th)](https://open.cait518.cc/hourstag-lite-support/about-hourstag-lite-app.th.html)
+<!-- sqe-blitz:end -->
+
 <!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
